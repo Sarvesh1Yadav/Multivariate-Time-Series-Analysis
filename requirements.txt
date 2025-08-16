@@ -1,0 +1,8 @@
+itertools
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+statsmodels
+warnings
